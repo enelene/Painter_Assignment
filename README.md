@@ -2,7 +2,10 @@
 ### Unpaired Image-to-Image Translation (Photo to Monet)
 
 პროექტი შესრულებულია Kaggle-ის შეჯიბრის ფარგლებში. მიზანია შეიქმნას **Generative Adversarial Network (GAN)**, რომელიც ჩვეულებრივ ფოტოებს გადააქცევს კლოდ მონეს სტილის ნახატებად, **Paired Data**-ს გამოყენების გარეშე.
-WANDB Report : https://wandb.ai/elene-gabeskiria2004-free-univiersity-of-tbilisi/CycleGAN_Painter/reports/Untitled-Report--VmlldzoxNTQzMzk3Nw
+
+## WANDB Report :
+
+https://wandb.ai/elene-gabeskiria2004-free-univiersity-of-tbilisi/CycleGAN_Painter/reports/Untitled-Report--VmlldzoxNTQzMzk3Nw
 
 ## Methodology & Architecture
 
@@ -58,5 +61,6 @@ WANDB Report : https://wandb.ai/elene-gabeskiria2004-free-univiersity-of-tbilisi
 
 ### Training
 ტრენინგის გასაშვებად გამოიყენეთ `main_notebook.ipynb`. 
+
 
 
